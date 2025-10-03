@@ -1,5 +1,5 @@
 🥗 FreshIQ – AI-Powered Food Expiry & Freshness Detection
-From barcodes to bananas – track food expiry and freshness with AI.
+Know what's Fresh – track food expiry and freshness with AI.
 <!-- optional, replace with screenshot later -->
 📌 Table of Contents
 About the Project
